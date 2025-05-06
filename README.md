@@ -2,7 +2,7 @@
 
 Submitted by: Ahmed Azmi
 
-This web app: Car Enthusiasts Forum is a forum where car enthusiasts can come together and share their cars and discuss all there is to talk about cars! There are multiple features implemented, including but not limited to, flagging posts based on what it is (eg. question, discussion, news, etc.), reposting, dark mode and light mode, commenting, upvoting, etc.
+This web app: Car Enthusiasts Forum is a forum where car enthusiasts can come together and share their cars and discuss all there is to talk about cars! There are multiple features implemented, including but not limited to, flagging posts based on what it is (eg. question, discussion, news, etc.), reposting, dark mode and light mode, commenting, upvoting, etc. Video walkthrough available below (due to imgur time restrictions, some features are not shown in the walkthrough. Feel free to download the program on your computer and run the environment locally!)
 
 Time spent: 14 hours spent in total
 
